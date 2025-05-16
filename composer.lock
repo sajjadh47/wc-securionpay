@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "ae8f52ba12e5694de9ab1d99be95fb91",
+    "packages": [
+        {
+            "name": "securionpay/securionpay-php",
+            "version": "v2.6.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/securionpay/securionpay-php.git",
+                "reference": "cda9628175f13e86228d864215a93b59f9809912"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/securionpay/securionpay-php/zipball/cda9628175f13e86228d864215a93b59f9809912",
+                "reference": "cda9628175f13e86228d864215a93b59f9809912",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SecurionPay\\": "lib/SecurionPay/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "SecurionPay",
+                    "homepage": "https://securionpay.com/"
+                }
+            ],
+            "description": "SecurionPay PHP Library",
+            "homepage": "https://securionpay.com/",
+            "support": {
+                "issues": "https://github.com/securionpay/securionpay-php/issues",
+                "source": "https://github.com/securionpay/securionpay-php/tree/v2.6.0"
+            },
+            "abandoned": true,
+            "time": "2022-10-28T08:36:24+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}

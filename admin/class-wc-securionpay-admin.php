@@ -122,7 +122,7 @@ class Wc_Securionpay_Admin {
 	}
 
 	/**
-	 * Adds Seurionpay gateway to the list of available WooCommerce payment gateways.
+	 * Adds SecurionPay gateway to the list of available WooCommerce payment gateways.
 	 *
 	 * This filter allows you to add custom payment gateways to WooCommerce.
 	 * This function adds the WC_Securionpay_Gateway to the list.

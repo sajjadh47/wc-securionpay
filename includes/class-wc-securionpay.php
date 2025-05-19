@@ -73,10 +73,10 @@ class Wc_Securionpay {
 	 *
 	 * Include the following files that make up the plugin:
 	 *
-	 * - Wc_Securionpay_Loader.  Orchestrates the hooks of the plugin.
-	 * - Wc_Securionpay_i18n.    Defines internationalization functionality.
-	 * - Wc_Securionpay_Admin.   Defines all hooks for the admin area.
-	 * - Wc_Securionpay_Public.  Defines all hooks for the public side of the site.
+	 * - Wc_Securionpay_Loader. Orchestrates the hooks of the plugin.
+	 * - Wc_Securionpay_i18n.   Defines internationalization functionality.
+	 * - Wc_Securionpay_Admin.  Defines all hooks for the admin area.
+	 * - Wc_Securionpay_Public. Defines all hooks for the public side of the site.
 	 *
 	 * Create an instance of the loader which will be used to register the hooks
 	 * with WordPress.
@@ -210,6 +210,7 @@ class Wc_Securionpay {
 	 * based on the provided card number.
 	 *
 	 * @since     2.0.0
+	 * @static
 	 * @access    public
 	 * @param     string $number The card number to identify.
 	 * @return    string|null    The card type, or null if the type cannot be determined.
@@ -240,6 +241,7 @@ class Wc_Securionpay {
 	 * For example 10€ is represented as "1000" and 10¥ is represented as "10".
 	 *
 	 * @since     2.0.0
+	 * @static
 	 * @access    public
 	 * @param     float|int $amount   The amount to convert.
 	 * @param     string    $currency The currency of the amount.

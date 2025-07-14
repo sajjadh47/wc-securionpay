@@ -1,4 +1,4 @@
-=== Payment Gateway for WooCommerce - SecurionPay ===
+=== Payment Gateway For WooCommerce - SecurionPay ===
 Tags: credit-card, securionpay, payment gateway, WooCommerce, WooCommerce-payment-gateway
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
@@ -25,8 +25,8 @@ To add a WordPress Plugin using the built-in plugin installer:
 
 Go to Plugins > Add New.
 
-1. Type in the name "Payment Gateway for WooCommerce - SecurionPay" in Search Plugins box
-2. Find the "Payment Gateway for WooCommerce - SecurionPay" Plugin to install.
+1. Type in the name "Payment Gateway For WooCommerce - SecurionPay" in Search Plugins box
+2. Find the "Payment Gateway For WooCommerce - SecurionPay" Plugin to install.
 3. Click Install Now to begin the plugin installation.
 4. The resulting installation screen will list the installation as successful or note any problems during the install.
 If successful, click Activate Plugin to activate it, or Return to Plugin Installer for further actions.

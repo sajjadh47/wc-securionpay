@@ -75,7 +75,7 @@ class Wc_Securionpay_Admin {
 		if ( ! class_exists( 'WooCommerce', false ) ) {
 			sprintf(
 				'<div class="notice notice-warning is-dismissible"><p>%s <a href="%s">%s</a> %s</p></div>',
-				__( 'Payment Gateway for WooCommerce - SecurionPay requires', 'wc-securionpay' ),
+				__( 'Payment Gateway For WooCommerce - SecurionPay requires', 'wc-securionpay' ),
 				esc_url( 'https://wordpress.org/plugins/woocommerce/' ),
 				__( 'WooCommerce', 'wc-securionpay' ),
 				__( 'plugin to be active!', 'wc-securionpay' ),

@@ -1,6 +1,6 @@
 # Payment Gateway for WooCommerce - SecurionPay
 
-[![Plugin Banner](https://ps.w.org/wc-securionpay/assets/banner-772x250.png)](https://wordpress.org/plugins/wc-securionpay/)
+[![Plugin Banner](https://ps.w.org/wc-securionpay/assets/banner-1544x500.png)](https://wordpress.org/plugins/wc-securionpay/)
 
 **Tags:** credit-card, securionpay, payment gateway, payments, woocommerce, woo, woocommerce-payment-gateway, woo-gateway , secure-payment \
 **Tested up to:** 6.9 \

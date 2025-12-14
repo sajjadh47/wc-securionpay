@@ -3,8 +3,8 @@ Tags: credit-card, securionpay, payment gateway, WooCommerce, WooCommerce-paymen
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
 Requires at least: 5.6
-Tested up to: 6.8
-Stable tag: 2.0.0
+Tested up to: 6.9
+Stable tag: 2.0.1
 Requires PHP: 8.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -49,6 +49,8 @@ Can be found here <a href="https://securionpay.com/account-settings#api-keys">AP
 2. Credit Card Information Fields
 
 == Changelog ==
+= 2.0.1 =
+- Checked for latest wp version 6.9
 = 2.0.0 =
 - Checked for latest wp version 6.8
 = 1.0.3 =

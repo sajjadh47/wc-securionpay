@@ -13,7 +13,7 @@
  * Plugin Name:       Payment Gateway For WooCommerce - SecurionPay
  * Plugin URI:        https://wordpress.org/plugins/wc-securionpay/
  * Description:       Integrate SecurionPay payment gateway to your WooCommerce Powered store.
- * Version:           2.0.0
+ * Version:           2.0.1
  * Requires at least: 5.6
  * Requires PHP:      8.0
  * Author:            Sajjad Hossain Sagor
@@ -33,7 +33,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Currently plugin version.
  */
-define( 'WC_SECURIONPAY_PLUGIN_VERSION', '2.0.0' );
+define( 'WC_SECURIONPAY_PLUGIN_VERSION', '2.0.1' );
 
 /**
  * Define Plugin Folders Path

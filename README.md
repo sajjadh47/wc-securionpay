@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/wc-securionpay/assets/banner-772x250.png)](https://wordpress.org/plugins/wc-securionpay/)
 
 **Tags:** credit-card, securionpay, payment gateway, payments, woocommerce, woo, woocommerce-payment-gateway, woo-gateway , secure-payment \
-**Tested up to:** 6.8 \
+**Tested up to:** 6.9 \
 **Requires PHP:** 8.0
 
 Online Payment Platform Designed to Maximize Revenue.
@@ -57,6 +57,9 @@ Can be found here <a href="https://securionpay.com/account-settings#api-keys">AP
 ![Credit Card Information Fields](https://ps.w.org/wc-securionpay/assets/screenshot-2.png)
 
 ## Changelog
+
+### 2.0.1
+- Checked for latest wp version 6.9
 
 ### 2.0.0
 - Checked for latest wp version 6.8

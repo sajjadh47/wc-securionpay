@@ -58,6 +58,9 @@ Can be found here <a href="https://securionpay.com/account-settings#api-keys">AP
 
 ## Changelog
 
+### 2.0.3
+- Added woocommerce High Performance Order Storage compatibility.
+
 ### 2.0.2
 - Compatibility checkup for latest wp version 7.0
 

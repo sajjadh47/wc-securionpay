@@ -117,7 +117,7 @@ class Wc_Securionpay_Admin {
 	 */
 	public function declare_compatibility_with_wc_custom_order_tables() {
 		if ( class_exists( \Automattic\WooCommerce\Utilities\FeaturesUtil::class ) ) {
-			\Automattic\WooCommerce\Utilities\FeaturesUtil::declare_compatibility( 'custom_order_tables', __FILE__, true );
+			\Automattic\WooCommerce\Utilities\FeaturesUtil::declare_compatibility( 'custom_order_tables', WC_SECURIONPAY_PLUGIN_FILE, true );
 		}
 	}
 
